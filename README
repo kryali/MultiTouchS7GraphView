@@ -1,6 +1,7 @@
 This is a multitouch extension of S7GraphView
 
-Usage - Include all files into 
+Usage - Include all files into your XCode project folder and then build a MultiTouchS7GraphView object 
+
 Data souce: Same as S7GraphView
 
 Issues - Using dates as x values are currently hardcoded
