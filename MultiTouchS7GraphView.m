@@ -1,9 +1,8 @@
 //
 //  MultiTouchS7GraphView.m
-//  Admin Mask
+//	created by Kiran Ryali
+//		kiranryali.com
 //
-//  Created by Chas Conway on 11/23/10.
-//  Copyright 2010 004 Technologies, USA. All rights reserved.
 //
 
 #import "MultiTouchS7GraphView.h"

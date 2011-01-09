@@ -1,1 +1,7 @@
-http://www.youtube.com/watch?v=NyEGzX2BbRw
+This is a multitouch extension of S7GraphView
+
+Usage - Include all files into 
+Data souce: Same as S7GraphView
+
+Issues - Using dates as x values are currently hardcoded
+

@@ -2,7 +2,9 @@
 //  S7GraphView.m
 //  S7Touch
 //
-//  Created by Aleks Nesterow on 9/27/09.
+//  Created by Kiran Ryali for Multitouch use
+//
+//  Based on work by Aleks Nesterow on 9/27/09.
 //  aleks.nesterow@gmail.com
 //  
 //  Thanks to http://snobit.habrahabr.ru/ for releasing sources for his
